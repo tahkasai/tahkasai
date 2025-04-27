@@ -27,6 +27,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/tahkasai/tahkasai/output/snake.svg" alt="Snake animation" />
 
 ###
