@@ -14,6 +14,8 @@
 <ul align="left">
   <li>🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá</li>
   <li>👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na FATEC Ferraz</li>
+  <li>🖥️ Aluna do Instiuto Proa, no curso de Desenvolvimento Web com Java</li>
+  <li>👩🏻‍💻 Aluna do Programa Oracle Next Education</li>
   <li>🎯 Participante ativa em eventos, projetos acadêmicos e comunidades de tecnologia</li>
 </ul>
 <br>
