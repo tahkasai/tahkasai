@@ -4,8 +4,8 @@
 <p align="left">
   Olá! Meu nome é Tainá e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC de Ferraz de Vasconcelos. 
   Meus repositórios tem como principal objetivo documentar minha evolução nos estudos para me tornar uma desenvolvedora Full Stack.<br><br>
-  Atualmente, foco meus estudos em <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>React js</strong>, mas também possuo conhecimentos em 
-  <strong>HTML/CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>Python</strong> e <strong>bancos de dados</strong>, 
+  Atualmente, foco meus estudos em <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React js</strong> e <strong>TypeScript<strong>, mas também possuo conhecimentos em 
+  <strong>HTML/CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>Python</strong> e <strong>SQL</strong>, 
   em níveis básico e intermediário.
 </p>
 
@@ -14,7 +14,7 @@
 <ul align="left">
   <li>🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá</li>
   <li>👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na FATEC Ferraz</li>
-  <li>🖥️ Aluna do Instiuto Proa, no curso de Desenvolvimento Web com Java</li>
+  <li>🖥️ Ex-Aluna do Instiuto Proa, no curso de Desenvolvimento Web com Java</li>
   <li>👩🏻‍💻 Aluna do Programa Oracle Next Education</li>
   <li>🎯 Participante ativa em eventos, projetos acadêmicos e comunidades de tecnologia</li>
 </ul>
